@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "No one has ever become poor by giving",
+    "description": "",
+    "home_page_url": "https://slancyking.github.io",
+    "feed_url": "https://slancyking.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "slancyking"
+    },
+    "items": [
+        {
+            "id": "https://slancyking.github.io/just-test/",
+            "url": "https://slancyking.github.io/just-test/",
+            "title": "just Test",
+            "summary": "测试测试",
+            "content_html": "<h1 id=\"测试测试\">测试测试</h1>\n",
+            "author": {
+                "name": "slancyking"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-02T00:25:54+08:00",
+            "date_modified": "2024-04-02T00:25:54+08:00"
+        }
+    ]
+}

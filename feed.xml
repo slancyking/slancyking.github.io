@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>No one has ever become poor by giving</title>
+    <link href="https://slancyking.github.io/feed.xml" rel="self" />
+    <link href="https://slancyking.github.io" />
+    <updated>2024-04-02T00:25:54+08:00</updated>
+    <author>
+        <name>slancyking</name>
+    </author>
+    <id>https://slancyking.github.io</id>
+
+    <entry>
+        <title>just Test</title>
+        <author>
+            <name>slancyking</name>
+        </author>
+        <link href="https://slancyking.github.io/just-test/"/>
+        <id>https://slancyking.github.io/just-test/</id>
+
+        <updated>2024-04-02T00:25:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    测试测试
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="测试测试">测试测试</h1>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
